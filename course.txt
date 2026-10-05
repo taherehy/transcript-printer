@@ -1,0 +1,38 @@
+[Computer Architecture]
+Sarah Johnson: 3
+Michael Smith: 1
+Emily Davis: 2
+David Wilson: 4
+Olivia Martinez: 0
+Daniel Anderson: 5
+Sophia Thompson: 3
+Benjamin Harris: 2
+Ava Rodriguez: 1
+William Taylor: 0
+
+[Networks 101]
+Sarah Johnson: 2
+Michael Smith: 4
+Emily Davis: 0
+David Wilson: 3
+Olivia Martinez: 1
+Daniel Anderson: 5
+Sophia Thompson: 0
+Benjamin Harris: 2
+Ava Rodriguez: 3
+William Taylor: 1
+
+[C programming]
+Sarah Johnson: 2
+Michael Smith: 0
+Emily Davis: 4
+David Wilson: 1
+Olivia Martinez: 3
+Daniel Anderson: 5
+Sophia Thompson: 2
+Benjamin Harris: 0
+Ava Rodriguez: 3
+William Taylor: 4
+
+
+
